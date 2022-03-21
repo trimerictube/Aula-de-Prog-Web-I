@@ -1,4 +1,4 @@
-# Aula-de-Prog-Web-I
+# Aula-de-Prog-Web-1
 Estou criando esse repositório para a aula de Prog Web I.
 Essa é a primeira vez que começo um projeto de programação.
 Segue o código do site
